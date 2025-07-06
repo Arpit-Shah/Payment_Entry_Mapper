@@ -1,0 +1,25 @@
+[
+	{
+		"role": "Student",
+		"lastName": "Arora",
+		"middleName": "",
+		"firstName": "Mike",
+		"subjects": "1",
+		"bankAccountNumber": [],
+		"bankAccountName": [
+			"xyz",
+			"abc"
+		]
+	},
+	{
+		"role": "Student",
+		"lastName": "Logopati",
+		"middleName": "",
+		"firstName": "Benjamin",
+		"subjects": "2",
+		"bankAccountNumber": [],
+		"bankAccountName": [
+			"xyz"
+		]
+	}
+]
